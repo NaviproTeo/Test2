@@ -1,0 +1,26 @@
+{
+  "id": "4ae07e31-1cb4-447d-a5ad-ec7e6c6b1e0e",
+  "name": "Sitoo",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": {
+    "version": "11.0.0.0",
+    "locale": "US"
+  },
+  "idRange": {
+    "from": 51300,
+    "to": 51399
+  }
+}

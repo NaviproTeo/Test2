@@ -1,0 +1,14 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "al",
+			"request": "launch",
+			"name": "localhost",
+			"server": "http://localhost",
+			"serverInstance": "dynamicsnav110",
+			"tenant": "default",
+			"authentication": "Windows",
+		}
+	]
+}
